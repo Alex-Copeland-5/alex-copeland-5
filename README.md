@@ -4,4 +4,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student at UNA
 
 * 🌍  I'm based in Florence, Alabama
-* 💬  Ask me about Set your heart ablaze
+* 💬  Set your heart ablaze
