@@ -1,16 +1,10 @@
 document.addEventListener("DOMContentLoaded", () => {
-   console.log("document succesfully loaded, baby");
-   
-   document.getElementById('btnClicky').addEventListener('click', btnClicky); 
- }
-);
+  console.log("document succesfully loaded, baby");
+});
 
-function btnClicky () {
-  console.log('in btnClicky event');
-  document.getElementById('btnClicky').style.transform = 'rotate(15deg)'
-  console.log('after rotation');
-}
+document.getElementById("randomBtn").addEventListener("click", function() {
+  // Generate a random number between 1 and 100
+  let randomNumber = Math.floor(Math.random() * 100) + 1;
 
-
-// const btnClicky = document.getElementById('btnClicky'); btnClicky.addEventListener('click', () => { // ...now do DOM stuff });
-
+  document.getElementById("randomNumberDisplay").textContent = "Your random number is " + randomNumber; + "!";
+});
