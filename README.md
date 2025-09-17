@@ -52,3 +52,4 @@ Here are the following website I used to research for this project.
 - [HTML Images](https://www.w3schools.com/html/html_images.asp)
 - [Alt text for images](https://www.w3schools.com/tags/att_img_alt.asp)
 - [Markdown Code Snippet](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
+- [How to write a GOOD README](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
